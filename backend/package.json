@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "servidor.js",
   "scripts": {
-    "dev": "nodemon servidor.js"
+    "dev": "nodemon servidor.js",
+    "start": "node servidor.js"
   },
   "dependencies": {
     "express": "^5.2.1",
